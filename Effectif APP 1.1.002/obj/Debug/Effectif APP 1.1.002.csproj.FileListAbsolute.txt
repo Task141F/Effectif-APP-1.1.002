@@ -1,0 +1,16 @@
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\bin\Debug\Effectif APP 1.1.002.exe.config
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\bin\Debug\Effectif APP 1.1.002.exe
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\bin\Debug\Effectif APP 1.1.002.pdb
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\obj\Debug\Effectif APP 1.1.002.csprojAssemblyReference.cache
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\obj\Debug\Effectif_APP_1._1._002.MainForm.resources
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\obj\Debug\Effectif_APP_1._1._002.Properties.Resources.resources
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\obj\Debug\Effectif APP 1.1.002.csproj.GenerateResource.cache
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\obj\Debug\Effectif APP 1.1.002.csproj.CoreCompileInputs.cache
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\obj\Debug\Effectif APP 1.1.002.exe
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\obj\Debug\Effectif APP 1.1.002.pdb
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\obj\Debug\Effectif_APP_1._1._002.OfficierForm.resources
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\bin\Debug\Guna.UI2.dll
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\obj\Debug\Effectif APP 1.1.002.csproj.CopyComplete
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\obj\Debug\Effectif_APP_1._1._002.SousOfficierForm.resources
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\obj\Debug\Effectif_APP_1._1._002.HdrForm.resources
+C:\Users\kadyy\Documents\Visual Studio 2017\Projects\Projects2017\Effectif APP 1.1.002\Effectif APP 1.1.002\obj\Debug\Effectif_APP_1._1._002.AddPrsnForm.resources
